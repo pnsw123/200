@@ -1,0 +1,24 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   From my point of view, this project is about combining advanced spatial data structures with how they are used in simulations and visualizations in the real world. To handle points in two dimensions, it creates two kinds of symbol tables: BrutePointST and KdTreePointST. The BrutePointST, which uses a simple binary search tree, seems to work best for simple tasks but might not be as good for bigger datasets. But KdTreePointST, which is based on a k-d tree structure, looks trickier but might work better for spatial queries, which are important in dynamic models and showing data visually.
+
+   I think that the project's use seems to have two parts. First, there's a boid model, which is probably used to study how flocks behave. It looks like it uses these spatial structures to look at how behavior changes in environments that are always changing.
+   Second, the project has tools for visualizing data. These are the Nearest Neighbor and Range Search Visualizers. One of these tools shows points close to a certain place, and the other shows points within a certain area.
+   Both of them seem to be made to show spatial data. It's likely that both visualizers want to see which is better for handling and showing spatial data: brute force or k-d tree methods?
+   From this point of view, the project seems to combine theory data structures with real-world applications.
+    It shows how well different approaches work at handling and showing spatial data.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

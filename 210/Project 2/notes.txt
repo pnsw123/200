@@ -1,0 +1,28 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+
+    A "LinkedDeque" was the main goal of this project. This is a special kind of computer queue that can add or remove things from both ends.
+    In a way, it was like setting up a shop line (or "queue") so that buyers could be served from both the front and the back.
+    It reminded me of a linked list project I worked on over the summer,
+    and it had both familiar and new tasks that helped me learn how to organize and manage data well in a computer setting.
+
+    A "doubly-linked list" was used for this project, which is different because each point (or "node") has a relationship to both its next neighbor and its previous neighbor, making a two-way link.
+    Working with data in this two-way linked setting really helped me improve my ability to think logically and solve problems.
+    It was especially helpful to learn how to code in a way that let us easily add, peek, and remove things from our data structure while making sure that each piece of data kept its connections correctly.
+
+
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   Great project, I absolutely loved it ! it was much better the first project
